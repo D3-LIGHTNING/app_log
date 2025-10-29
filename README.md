@@ -27,17 +27,6 @@ A lightweight, zero-configuration logging utility for Dart and Flutter.
 - ✅ Lightweight: No external dependencies.
 - ✅ Log tagging: Group and filter logs by a custom tag.
 
-## Getting started
-
-Add `app_log` to your `pubspec.yaml` dependencies:
-
-```yaml
-dependencies:
-  app_log: ^0.0.1 # Replace with the latest version
-```
-
-Then, run `flutter pub get`.
-
 ## Usage
 
 Import the package and create a logger instance.
